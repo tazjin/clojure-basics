@@ -18,9 +18,13 @@ If you're a vim user I can't help you, make sure you get plugins that provide au
 
 If you're an IntelliJ user there's the new and experimental [Cursive Clojure](http://cursiveclojure.com/).
 
-If you're a Sublime user: I honestly don't know, find otu and send a pull request!
+If you're a Sublime user: I honestly don't know, find out and send a pull request!
 
-## Basics  
+## Lisp?!
+
+To understand the concepts of Lisp please read [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html). Maybe don't dive into it right away but save it for later and go through it, it'll open your eyes as to why "people put up with all the parantheses in Lisp" and other such things. You will learn to love it!
+
+## Clojure environment basics  
 Leiningen is Clojure's dependency manager that downloads libraries for you to use from Maven repositories. If you come from the Java world, building Clojure with Maven is possible but I'm the wrong person to ask about that :-)
 
 It also organizes your projects and creates them according to templates, there are a few important ones for learning.
