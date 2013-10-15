@@ -38,17 +38,20 @@ You can now create an empty project using `lein new experiment my-thing`, where 
 
 Have a look at the `project.clj` file to understand its structure! This is also where you add dependencies which are then automatically downloaded by Leiningen.
 
-## Learning Clojure
+## Learning resources
 
-Before doing anything else, do some very basic experimentation with [Try Clojure](http://tryclj.com/). If you like this style of learning I recommend that you get the [Clojure Koans](https://github.com/functional-koans/clojure-koans) and work through them.
+Before doing anything else, do some very basic experimentation with [Try Clojure](http://tryclj.com/).
+
+### Koans
+Koans are a way of learning a programming language through a short puzzle with a gap, you think about the code and fill in what's required until the tests pass.
+
+If you like this style of learning I recommend that you get the [Clojure Koans](https://github.com/functional-koans/clojure-koans) and work through them.
 
 If you still want to continue in this style register on [4Clojure](http://www.4clojure.com/) and start doing some of the more advanced "Koans" there.
 
-You want a classic manual? I recommend [Programming Clojure](http://pragprog.com/book/shcloj2/programming-clojure).
-
-More of a web developer and like to get your hands dirty right away? Have a look at the beta of [Web Development with Clojure](http://pragprog.com/book/dswdcloj/web-development-with-clojure).
-
-These should be enough to get you started.
+### Books
+* [Programming Clojure](http://pragprog.com/book/shcloj2/programming-clojure), 2nd Edition by Stuart Halloway and Aaron Bedra. Very detailed and good book!
+* [Web Development with Clojure](http://pragprog.com/book/dswdcloj/web-development-with-clojure) which does not presume Clojure experience and leads you through several short web development projects, very handy! (This book is in beta :-))
 
 ## Other resources
 
