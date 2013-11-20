@@ -49,8 +49,11 @@ If you like this style of learning I recommend that you get the [Clojure Koans](
 
 If you still want to continue in this style register on [4Clojure](http://www.4clojure.com/) and start doing some of the more advanced "Koans" there.
 
+If you want some feedback from real people on your code, register on [exercism.io](http://exercism.io/) and wrok through some of their practice problems in Clojure.
+
 ### Books
 * [Programming Clojure](http://pragprog.com/book/shcloj2/programming-clojure), 2nd Edition by Stuart Halloway and Aaron Bedra. Very detailed and good book!
+* [Clojure Programming](http://www.clojurebook.com/), by Chas Emerick, Christophe Grande and Brian Carper does a good job of starting for the basics and covering a lot of practical ground.
 * [Web Development with Clojure](http://pragprog.com/book/dswdcloj/web-development-with-clojure) which does not presume Clojure experience and leads you through several short web development projects, very handy! (This book is in beta :-))
 
 ## Other resources
@@ -81,5 +84,6 @@ There are lots of interesting things about Clojure on the internet, this include
 * [Mostly λazy](http://mostlylazy.com/), a more informal Clojure podcast
 
 ### Other tutorials
-* For front-end developers: The [pedestal-app tutorial](https://github.com/pedestal/app-tutorial) is great I hear, it takes some time to work through though.
+* For full-stack developers: The [pedestal-app tutorial](https://github.com/pedestal/app-tutorial) is great I hear, it takes some time to work through though.
+* For front-end developers: The [modern ClojureScript tutorials](https://github.com/magomimmo/modern-cljs) are truly excellent to work through.
 * More to come ...
