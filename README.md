@@ -10,7 +10,8 @@ You also (obviously) need the JDK/JRE installed.
 After this you open your favourite terminal and run `lein repl` which downloads Clojure and opens a REPL for you to experiment with. Quit this with (quit)
 
 ## Editing Clojure
-Clojure is a dialect of Lisp and, as such, very well suited for structural editing using a tool like [Paredit](http://www.youtube.com/watch?v=D6h5dFyyUX0) in Emacs. **Emacs** is also the editor I recommend above all others, if you already use it make sure you have `nrepl.el`, `rainbow-delimiters` and `paredit` installed and running - take some time to get familiar with Paredit if you aren't already!
+Clojure is a dialect of Lisp and, as such, very well suited for structural editing using a tool like [Paredit](http://www.youtube.com/watch?v=D6h5dFyyUX0) in Emacs.
+In fact, **Emacs** is also the editor I recommend above all others, if you already use it make sure you have `cider`, `rainbow-delimiters` and `paredit` installed and running - take some time to get familiar with Paredit if you aren't already!
 
 If you're new to Emacs and want to focus on Clojure you might want to look at [Emacs for Clojure](https://github.com/stuarth/emacs-for-clojure) which installs an easy default configuration for Clojure programming.
 
