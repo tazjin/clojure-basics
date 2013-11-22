@@ -50,7 +50,7 @@ If you like this style of learning I recommend that you get the [Clojure Koans](
 
 If you still want to continue in this style register on [4Clojure](http://www.4clojure.com/) and start doing some of the more advanced "Koans" there.
 
-If you want some feedback from real people on your code, register on [exercism.io](http://exercism.io/) and wrok through some of their practice problems in Clojure.
+If you want some feedback from real people on your code, register on [exercism.io](http://exercism.io/) and work through some of their practice problems in Clojure.
 
 ### Books
 * [Programming Clojure](http://pragprog.com/book/shcloj2/programming-clojure), 2nd Edition by Stuart Halloway and Aaron Bedra. Very detailed and good book!
